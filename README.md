@@ -3,6 +3,8 @@
 [![GitHub release](https://img.shields.io/github/release/RamiAwar/superpet.svg)](https://github.com/RamiAwar/superpet/releases/latest)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RamiAwar/superpet/blob/master/LICENSE)
 
+This tool's features will *soon* be merged into Pet, the original forked repo, as I've become a collaborator there. Stay tuned!
+
 <div align="center">
 <img src="assets/superpet_transparent.png" width="350">
 
